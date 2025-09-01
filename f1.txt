@@ -9,9 +9,8 @@ I am Mounika
 Husband Srinivas
 
 //101 changes
-Public static void main string args[]
+Public static void main (string args[])
 {
 Int x=10;
 System.out.prinntln(x);
 }
-
